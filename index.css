@@ -1,0 +1,188 @@
+.div1, .div2, .div3{
+    width: 280px;
+    margin: auto;
+    height: 60px;
+}
+.div1 {
+    margin-top: 30px;
+    border: 2px solid orange;
+    background-color: orange;
+}
+
+.div2 {
+    border: 2px solid white;
+    background-color: white;
+}
+
+.div3 {
+    border: 2px solid rgb(8, 245, 75);
+    background-color: rgb(8, 245, 75);
+}
+
+.wheel {
+    
+    width: 55px;
+    border: 6px solid rgb(49, 4, 247);
+    height: 55px;
+    border-radius: 50px;
+    margin-top: -128px;
+
+}
+
+
+
+.stem{
+    position: relative;
+    margin-top: 0px;
+    border: 2px solid black;
+    height: 500px;
+    width: 10px;
+    right: 147px;
+    margin-top: -130px;
+    background-color: brown;
+}
+
+.wheel div{
+    position: absolute;
+    border: 2px solid rgb(49, 4, 247);
+    width: 55px;
+}
+
+.a{
+    margin-top: 27px;
+    transform: rotate(0deg);
+}
+
+.b{
+    margin-top: 27px;
+    transform: rotate(15deg);
+}
+.c{
+    margin-top: 27px;
+    transform: rotate(30deg);
+}
+.d{
+    margin-top: 27px;
+    transform: rotate(45deg);
+}
+
+.e{
+    margin-top: 27px;
+    transform: rotate(60deg);
+}
+.f{
+    margin-top: 27px;
+    transform: rotate(75deg);
+}
+.g{
+    margin-top: 27px;
+    transform: rotate(90deg);
+}
+.h{
+    margin-top: 27px;
+    transform: rotate(105deg);
+}
+.i{
+    margin-top: 27px;
+    transform: rotate(120deg);
+}
+
+.j{
+    margin-top: 27px;
+    transform: rotate(135deg);
+}
+.k{
+    margin-top: 27px;
+    transform: rotate(150deg);
+}
+.l{
+    margin-top: 27px;
+    transform: rotate(165deg);
+}
+
+.m{
+    margin-top: 27px;
+    transform: rotate(180deg);
+}
+
+.ground{
+    border: 5px solid rgb(16, 6, 6);
+    position: relative;
+    left: -10px;
+    width: 320px;
+    height: 10px;
+    border-radius:10px;
+    background-color: brown;
+}
+
+p{
+    align-items: center ;
+}
+
+
+.signal{
+    margin-top: 30px;
+ border: 5px solid black;
+ background-color: grey;
+ width: 80px;
+ height: 200px;
+ border-radius: 20px;
+
+}
+
+.red{
+    margin-top: -183px;
+    border: 4px solid rgb(19, 13, 13);
+    background-color: rgb(252, 2, 2);
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+   }
+
+   .yellow{
+    margin-top: 10px;
+    border: 4px solid rgb(19, 13, 13);
+    background-color: rgb(215, 230, 10);
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+   }
+
+   .green{
+    margin-top: 10px;
+    border: 4px solid rgb(19, 13, 13);
+    background-color: rgb(2, 252, 15);
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+
+   }
+   .sg1{
+    border: 2px solid black;
+    height: 10px;
+    width: 100px;
+    background-color: black;
+    margin-top: -150px;
+    position: relative;
+    left: 92px;
+
+   }
+ .sg2{
+    border: 2px solid black;
+    height: 600px;
+    width: 20px;
+    background-color: black;
+    margin-top: -19px;
+    position: relative;
+    left: 150px;
+
+ }
+.gr2{
+    border: 5px solid rgb(16, 6, 6);
+    position: relative;
+    left: 20px;
+    width: 320px;
+    height: 10px;
+    border-radius:10px;
+    background-color: rgb(84, 39, 39);
+}
